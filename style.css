@@ -40,8 +40,8 @@
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:#9dc3e2;
     text-align: center;
-    margin-left: 350px;
-    margin-right: 200px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 #ol-list{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -80,4 +80,10 @@
   margin-right: auto;
   margin-left: 2rem;
 
+}
+.flex{
+    display: flex;
+    margin-left: 200px;
+    margin-right: 200px;
+    gap:150px;
 }
