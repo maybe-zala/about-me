@@ -88,7 +88,6 @@
     gap:150px;
 }
 
-/* Responsive styles for screens less than 600px wide */
 @media (max-width: 600px) {
   .background-color {
     padding: 0 5px;
